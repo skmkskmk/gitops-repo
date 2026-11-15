@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: 205930613179.dkr.ecr.ap-south-1.amazonaws.com/hello-app:v1
+        image: 205930613179.dkr.ecr.ap-south-1.amazonaws.com/hello-app:v2
 
         ports:
         - containerPort: 3000
